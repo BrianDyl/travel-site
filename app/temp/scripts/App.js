@@ -11107,7 +11107,7 @@ var mobileMenu = new __WEBPACK_IMPORTED_MODULE_0__modules_MobileMenu__["a" /* de
 var stickyHeader = new __WEBPACK_IMPORTED_MODULE_2__modules_StickyHeader__["a" /* default */]();
 var modal = new __WEBPACK_IMPORTED_MODULE_3__modules_Modal_js__["a" /* default */]();
  new __WEBPACK_IMPORTED_MODULE_1__modules_RevealOnScroll__["a" /* default */](__WEBPACK_IMPORTED_MODULE_4_jquery___default()(".feature-item"), "85%");
- new __WEBPACK_IMPORTED_MODULE_1__modules_RevealOnScroll__["a" /* default */](__WEBPACK_IMPORTED_MODULE_4_jquery___default()(".testimonial"), "60%");
+ new __WEBPACK_IMPORTED_MODULE_1__modules_RevealOnScroll__["a" /* default */](__WEBPACK_IMPORTED_MODULE_4_jquery___default()(".testimonial"), "60%"); 
 
 /***/ }),
 /* 3 */
